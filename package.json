@@ -1,0 +1,26 @@
+{
+  "name": "babel-plugin-calculate",
+  "version": "0.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "number",
+    "calculate",
+    "js",
+    "javascript",
+    "accuracy",
+    "floating point number"
+  ],
+  "author": "plutoqin",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.23.9"
+  },
+  "dependencies": {
+    "babel-types": "^6.26.0",
+    "decimal.js": "^10.4.3"
+  }
+}
